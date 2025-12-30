@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay J. Ababon</h1>
 <p align="center">
   <strong>
-    Web & Mobile Developer · Game Developer · Blockchain Enthusiast
+    Web & Mobile Developer · Game Developer (GameDex) · Blockchain Enthusiast
   </strong>
 </p>
 
@@ -42,4 +42,21 @@ I’m Jay, a BSIT student with hands-on experience building real-world systems a
 I favor clean architecture, dependable release pipelines, and pragmatic documentation. Every build balances speed with reliability so it stays easy to debug, extend, and scale over the long term.
 
 ### Connect with Me
-- Email: [jayjeminoababon@gmail.com](jayjeminoababon@gmail.com)
+<p align="left">
+  <a href="https://facebook.com/yourprofile" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="42" height="42" />
+  </a>
+    <a href="mailto:jayjeminoababon@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="42" height="42" />
+  </a>
+  <a href="https://instagram.com/yourprofile" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="42" height="42" />
+  </a>
+  <a href="https://discord.gg/yourserver" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="42" height="42" />
+  </a>
+  <a href="https://github.com/yourprofile" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="42" height="42" />
+  </a>
+
+</p>
