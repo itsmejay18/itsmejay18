@@ -55,7 +55,7 @@ I’m Jay, a BSIT student with hands-on experience building real-world systems a
 </p>
 
 ### Approach
-I favor clean architecture, dependable release pipelines, and pragmatic documentation. If you need a custom system built, I take commission work and deliver solutions that stay fast, reliable, and easy to debug, extend, and scale over the long term.
+I favor clean architecture, dependable release pipelines, and pragmatic documentation. I’m still learning and leveling up every day, and I take commission work to build custom systems that stay fast, reliable, and easy to debug, extend, and scale over the long term.
 
 ### Connect with Me
 <p align="left">
