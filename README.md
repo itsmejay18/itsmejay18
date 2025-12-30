@@ -19,29 +19,43 @@ I’m Jay, a BSIT student with hands-on experience building real-world systems a
 - System Analysis and Debugging
 - Hardware troubleshooting, OS installation, and System Configuration
 
-### Languages and Tools
+### Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" height="42" />
-  <img src="https://desktop.github.com/images/desktop-icon.svg" alt="GitHub Desktop" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/polygon/8247e5" alt="Polygon PoS" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="42" height="42" />
 </p>
 
+### Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="42" height="42" />
+</p>
+
+### Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="42" height="42" />
+  <img src="https://herd.laravel.com/favicon.svg" alt="Laravel Herd" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" height="42" />
+  <img src="https://desktop.github.com/images/desktop-icon.svg" alt="GitHub Desktop" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" width="42" height="42" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="Apache NetBeans" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/polygon/8247e5" alt="Polygon PoS" width="42" height="42" />
+</p>
+
 ### Approach
-I favor clean architecture, dependable release pipelines, and pragmatic documentation. Every build balances speed with reliability so it stays easy to debug, extend, and scale over the long term.
+I favor clean architecture, dependable release pipelines, and pragmatic documentation. If you need a custom system built, I take commission work and deliver solutions that stay fast, reliable, and easy to debug, extend, and scale over the long term.
 
 ### Connect with Me
 <p align="left">
