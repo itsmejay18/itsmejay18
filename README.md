@@ -71,6 +71,9 @@ I favor clean architecture, dependable release pipelines, and pragmatic document
   <a href="https://discord.gg/ItsMeJay" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="42" height="42" />
   </a>
+  <a href="https://www.linkedin.com/in/jay-j-ababon-2644743a2/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" height="42" />
+  </a>
   <a href="https://github.com/itsmejay18" target="_blank">
     <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="42" height="42" />
   </a>
