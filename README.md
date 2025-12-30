@@ -14,7 +14,7 @@
 
 I’m Jay, a BSIT student with hands-on experience building real-world systems across web, mobile, games, and blockchain. I enjoy translating ideas into reliable, user-centric products that stay fast, secure, and easy to evolve.
 
-- Laravel, Flutter, Php, React, MySQL
+- Programming
 - Blockchain & Smart contracts
 - System Analysis and Debugging
 - Hardware troubleshooting, OS installation, and System Configuration
