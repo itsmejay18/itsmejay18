@@ -35,6 +35,7 @@ I’m Jay, a BSIT student with hands-on experience building real-world systems a
   <img src="https://desktop.github.com/images/desktop-icon.svg" alt="GitHub Desktop" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/polygon/8247e5" alt="Polygon PoS" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="42" height="42" />
 </p>
 
