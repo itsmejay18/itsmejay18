@@ -42,5 +42,4 @@ I’m Jay, a BSIT student with hands-on experience building real-world systems a
 I favor clean architecture, dependable release pipelines, and pragmatic documentation. Every build balances speed with reliability so it stays easy to debug, extend, and scale over the long term.
 
 ### Connect with Me
-- Portfolio: [https://itsmejay18.github.io/My-Updated-Portfolio/](https://itsmejay18.github.io/My-Updated-Portfolio/)
 - Email: [jayjeminoababon@gmail.com](jayjeminoababon@gmail.com)
