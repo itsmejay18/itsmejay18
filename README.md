@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay J. Ababon</h1>
 <p align="center">
   <strong>
-    Web & Mobile Developer · Game Developer (GameDex) · Blockchain Enthusiast
+    Web & Mobile Developer · Game Developer · Blockchain Enthusiast
   </strong>
 </p>
 
