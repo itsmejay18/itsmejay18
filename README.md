@@ -24,13 +24,13 @@
 
 ---
 
-## About Me
+## &#x1F9D1;&#x200D;&#x1F4BB; About Me
 
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 I'm Jay, a BSIT student with hands-on experience building real-world systems across web, mobile, games, and blockchain. I enjoy translating ideas into reliable, user-centric products that stay fast, secure, and easy to evolve.
 
-### Core Strengths
+### &#x1F4A1; Core Strengths
 
 - Programming
 - Blockchain & Smart contracts
@@ -41,7 +41,7 @@ I'm Jay, a BSIT student with hands-on experience building real-world systems acr
 
 ---
 
-## Tech Stack
+## &#x1F6E0;&#xFE0F; Tech Stack
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
@@ -70,13 +70,13 @@ I'm Jay, a BSIT student with hands-on experience building real-world systems acr
 
 ---
 
-## Approach
+## &#x1F4C8; Approach
 
 I value clean architecture, dependable release pipelines, and pragmatic documentation. I'm still learning and improving every day, and I take commission work to build custom systems that stay fast, reliable, and easy to debug, extend, and scale over the long term.
 
 ---
 
-## Connect With Me
+## &#x1F310; Connect With Me
 
 <p align="center">
   <a href="https://web.facebook.com/jay.jemino.ababon/" target="_blank">
