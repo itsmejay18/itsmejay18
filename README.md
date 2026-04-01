@@ -26,6 +26,8 @@
 
 ## About Me
 
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 I'm Jay, a BSIT student with hands-on experience building real-world systems across web, mobile, games, and blockchain. I enjoy translating ideas into reliable, user-centric products that stay fast, secure, and easy to evolve.
 
 ### Core Strengths
@@ -34,6 +36,8 @@ I'm Jay, a BSIT student with hands-on experience building real-world systems acr
 - Blockchain & Smart contracts
 - System Analysis and Debugging
 - Hardware troubleshooting, OS installation, and System Configuration
+
+<br clear="right"/>
 
 ---
 
