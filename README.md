@@ -12,6 +12,14 @@
   <img src="https://img.shields.io/badge/status-learning%20everyday-f59e0b?style=for-the-badge&logo=readme&logoColor=fff" alt="Learning Everyday" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmejay18/itsmejay18/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsmejay18/itsmejay18/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/itsmejay18/itsmejay18/output/github-snake.svg" />
+  </picture>
+</p>
+
 I’m Jay, a BSIT student with hands-on experience building real-world systems across web, mobile, games, and blockchain. I enjoy translating ideas into reliable, user-centric products that stay fast, secure, and easy to evolve.
 
 - Programming
