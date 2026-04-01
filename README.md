@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Jay J. Ababon</h1>
+<h1 align="center">Jay J. Ababon</h1>
+
 <p align="center">
-  <strong>
-    Web & Mobile Developer · Game Developer · Blockchain Enthusiast
-  </strong>
+  <strong>Web &amp; Mobile Developer | Game Developer | Blockchain Enthusiast</strong>
 </p>
 
+<p align="center">
+  BSIT student focused on building reliable, user-centered systems across web, mobile, games, and blockchain.
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayjababon&style=for-the-badge&color=0f172a" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=itsmejay18&style=for-the-badge&color=0f172a" alt="Profile Views" />
   <img src="https://img.shields.io/badge/commits-active-22c55e?style=for-the-badge&logo=github&logoColor=fff" alt="Commits Active" />
   <img src="https://img.shields.io/badge/status-learning%20everyday-f59e0b?style=for-the-badge&logo=readme&logoColor=fff" alt="Learning Everyday" />
 </p>
@@ -20,14 +22,22 @@
   </picture>
 </p>
 
-I’m Jay, a BSIT student with hands-on experience building real-world systems across web, mobile, games, and blockchain. I enjoy translating ideas into reliable, user-centric products that stay fast, secure, and easy to evolve.
+---
+
+## About Me
+
+I'm Jay, a BSIT student with hands-on experience building real-world systems across web, mobile, games, and blockchain. I enjoy translating ideas into reliable, user-centric products that stay fast, secure, and easy to evolve.
+
+### Core Strengths
 
 - Programming
 - Blockchain & Smart contracts
 - System Analysis and Debugging
 - Hardware troubleshooting, OS installation, and System Configuration
 
-### Tech Stack
+---
+
+## Tech Stack
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
@@ -54,15 +64,21 @@ I’m Jay, a BSIT student with hands-on experience building real-world systems a
 
 </div>
 
-### Approach
-I favor clean architecture, dependable release pipelines, and pragmatic documentation. I’m still learning and leveling up every day, and I take commission work to build custom systems that stay fast, reliable, and easy to debug, extend, and scale over the long term.
+---
 
-### Connect with Me
-<p align="left">
+## Approach
+
+I value clean architecture, dependable release pipelines, and pragmatic documentation. I'm still learning and improving every day, and I take commission work to build custom systems that stay fast, reliable, and easy to debug, extend, and scale over the long term.
+
+---
+
+## Connect With Me
+
+<p align="center">
   <a href="https://web.facebook.com/jay.jemino.ababon/" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="42" height="42" />
   </a>
-    <a href="mailto:jayjeminoababon@gmail.com" target="_blank">
+  <a href="mailto:jayjeminoababon@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="42" height="42" />
   </a>
   <a href="https://www.instagram.com/itsmejayjeminoababon/" target="_blank">
@@ -77,5 +93,4 @@ I favor clean architecture, dependable release pipelines, and pragmatic document
   <a href="https://github.com/itsmejay18" target="_blank">
     <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="42" height="42" />
   </a>
-
 </p>
