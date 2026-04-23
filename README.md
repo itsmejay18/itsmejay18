@@ -43,16 +43,12 @@ I'm Jay, a BSIT student with hands-on experience building real-world systems acr
 
 ## &#x1F6E0;&#xFE0F; Tech Stack
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-</div>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=js,react,python,java,cs,mysql,docker,github&theme=dark&perline=4"
+    alt="Tech stack icons for JavaScript, React, Python, Java, C#, MySQL, Docker, and GitHub"
+  />
+</p>
 
 <div align="center">
 
