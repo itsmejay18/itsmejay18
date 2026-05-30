@@ -116,7 +116,7 @@ I value clean architecture, dependable release pipelines, and pragmatic document
 |---|---|---|---|
 | 🛡️ | **PharmaShield** | Blockchain · Smart Contract · Polygon Testnet · Web/Mobile | Blockchain-based drug verification and patient guidance system with smart contract simulation deployed to Polygon testnet. |
 | 🚗 | **DMG Car Rental** | .NET Framework · WPF · IoT GPS Tracker | Desktop-based car rental management system integrated with IoT GPS tracking for vehicle monitoring and rental operations. |
-| 🌱 | **DSSC AgriFood TBI Management System** | Laravel · MySQL · Blade · Tailwind CSS | Web-based management system for DSSC AgriFood Technology Business Incubator, supporting project records, monitoring, and operations. |
+| 🌱 | **DSSC AgriFood TBI Management System** | Laravel · MySQL · Blade · Tailwind CSS · ML/AI | Web-based management system for DSSC AgriFood Technology Business Incubator with AI/ML-powered startup registration assistance, project monitoring, operational management, and intelligent business categorization. |
 | 🔐 | **BYG License Generator & Piso Tab Launcher** | Laravel · Android · Kiosk Lock Mode · ESP8266 · ESP32 | License generator and Android launcher system with kiosk lock mode support, including Allan Timer, ESP8266, and ESP32 configurations. |
 | 🌬️ | **AIRA** | IoT · AI · Air Quality Monitoring | AI for Respiratory Awareness: an IoT-based smart air quality monitoring and personalized health awareness system. |
 | ⚡ | **Piso Power Station Project** | ESP32 · IoT · Embedded Systems | ESP32-based IoT power station project for timed control, monitoring, and smart power automation. |
