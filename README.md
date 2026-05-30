@@ -93,6 +93,20 @@ I'm Jay, a BSIT student with hands-on experience building real-world systems acr
 I value clean architecture, dependable release pipelines, and pragmatic documentation. I'm still learning and improving every day, and I take commission work to build custom systems that stay fast, reliable, and easy to debug, extend, and scale over the long term.
 
 ---
+## 📜 Certifications
+
+| Certificate | Organization | Year |
+|---|---|---|
+| Marketing 101: Effective Use of Tools and Branding Strategies | IDEAS Davao | 2025 |
+| IDEAS Plugin Activity Participation | DICT XI | 2025 |
+| OpenXAI Mini App Workshop & Competition | OpenXAI × DavaoDeFi | 2025 |
+| COIL: Global Web Design | DSSC × EVSU | 2025 |
+| Best Start-Up Award | IDEAS Davao | 2025 |
+| 1st Place Pitching Competition | IDEAS Davao | 2025 |
+| Provincial Pitching Competition Participant | DICT XI | 2025 |
+| Provincial Pitching Competition Winner | DICT XI | 2025 |
+| Regional Pitching Competition Participant | DICT XI | 2025 |
+| Techstars Startup Weekend Social Impact Davao | New Energy Nexus PH | 2025 |
 
 ## &#x1F310; Connect With Me
 
