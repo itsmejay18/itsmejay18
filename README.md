@@ -116,10 +116,13 @@ I value clean architecture, dependable release pipelines, and pragmatic document
 |---|---|---|---|
 | 🛡️ | **PharmaShield** | Blockchain · Smart Contract · Polygon Testnet · Web/Mobile | Blockchain-based drug verification and patient guidance system with smart contract simulation deployed to Polygon testnet. |
 | 🚗 | **DMG Car Rental** | .NET Framework · WPF · IoT GPS Tracker | Desktop-based car rental management system integrated with IoT GPS tracking for vehicle monitoring and rental operations. |
-| 🌱 | **DSSC AgriFood TBI Management System** | Laravel · MySQL · Blade · Tailwind CSS · MLP/AI | Web-based management system for DSSC AgriFood Technology Business Incubator with AI/ML-powered startup registration assistance, project monitoring, operational management, and intelligent business categorization. |
+| 🌱 | **DSSC AgriFood TBI Management System** | Laravel · MySQL · Blade · Tailwind CSS · MLP AI | Web-based management system for DSSC AgriFood Technology Business Incubator with MLP AI-powered startup registration assistance, intelligent categorization, and project monitoring. |
 | 🔐 | **BYG License Generator & Piso Tab Launcher** | Laravel · Android · Kiosk Lock Mode · ESP8266 · ESP32 | License generator and Android launcher system with kiosk lock mode support, including Allan Timer, ESP8266, and ESP32 configurations. |
 | 🌬️ | **AIRA** | IoT · AI · Air Quality Monitoring | AI for Respiratory Awareness: an IoT-based smart air quality monitoring and personalized health awareness system. |
 | ⚡ | **Piso Power Station Project** | ESP32 · IoT · Embedded Systems | ESP32-based IoT power station project for timed control, monitoring, and smart power automation. |
+| 🏓 | **PickleBall ni Juan Management System** | Laravel 13 · MySQL · Tailwind CSS · Booking System | Web-based pickleball management and reservation system with scheduling, court management, player records, and booking functionalities. |
+| 💬 | **Online Forum Q&A – Learn, Share, and Grow Community** | Laravel 12 · MySQL · Blade · Tailwind CSS | Community-driven discussion and knowledge-sharing platform with forum posting, Q&A interaction, user engagement, and collaborative learning features. |
+| 🌍 | **GALA – Stress-Free Travel Solution** | Laravel 12 · Geotagging · Tourism System · COIL Project | Smart tourism and travel assistance platform with geotagging and destination-based services developed under the DSSC × EVSU × UII COIL collaboration project. |
 
 ## &#x1F310; Connect With Me
 
