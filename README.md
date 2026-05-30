@@ -110,21 +110,16 @@ I value clean architecture, dependable release pipelines, and pragmatic document
 
 ## 🚀 Featured Projects
 
-> 💡 Client-commissioned, competition-built, IoT-enabled, and research-driven systems — not just school compliance.
+> 💡 Blockchain, IoT, AI, Laravel, Android, and desktop systems I built for research, startup, and real-world use cases.
 
 |  | Project | Stack | About |
 |---|---|---|---|
-| 🛡️ | **PharmaShield** | Blockchain · Smart Contract · Polygon Testnet · Web/Mobile | Blockchain-based drug verification and patient guidance system with smart contract simulation deployed to Polygon testnet. Built for secure medicine authenticity checking and AI-assisted patient information support. |
-| 🚗 | **DMG Car Rental** | .NET Framework · WPF · IoT GPS Tracker | Desktop-based car rental management system integrated with IoT GPS tracking for vehicle monitoring, rental records, and real-time tracking. |
-| 🌱 | **DSSC AgriFood TBI Management System** | Laravel · MySQL · Blade · Tailwind CSS | Web-based management system for DSSC AgriFood Technology Business Incubator supporting startup/project records, monitoring, and operational management. |
-| 🔐 | **BYG License Generator & Piso Tab Launcher** | Laravel · Android · Kiosk Lock Mode · ESP8266 · ESP32 | License generator and Android launcher system with kiosk lock mode support. Includes Allan Timer, ESP8266, and ESP32 integration for Piso Tab deployments. |
-| 🌬️ | **AIRA: AI for Respiratory Awareness** | IoT · AI · Air Quality Monitoring | AI-powered respiratory awareness and environmental monitoring system with personalized recommendations and smart sensor integration. |
-| ⚡ | **Piso Power Station Project** | ESP32 · IoT · Embedded Systems | ESP32-powered IoT piso power station with automated monitoring, timed control, and smart power management features. |
-| 🏗️ | **AzaBuild** *(In Progress)* | Laravel 12 · React · Vite · MySQL · Sanctum | Construction Quantity Takeoff, Cost Estimation & CPM Project Management System for Azacon Builders and Realty OPC with interpolation engine and API-driven architecture. |
-| 🎓 | **eSkolar+ : LSAS** *(In Progress)* | .NET 10 · WPF · EF Core · MySQL | Scholarship Administration System for the Municipality of Sulop with OCR/GMS integration, OTP login, and PDF/Excel reporting. |
-| 🌏 | **TravelLink ASEAN** | Laravel 13 · Blade · Tailwind v4 · Alpine.js | ASEAN tourism and culture platform developed for COIL 2026 collaboration between Philippine and Cambodian teams. |
-| 🩺 | **LabSense** *(IT Olympiad Davao 2026)* | Expo · React Native · Supabase · Gemini 2.0 Flash | Mobile health literacy application for Filipino families with AI-powered lab result interpretation and multilingual support. |
-| 🌍 | **TravelWeave** | Laravel · Figma · MySQL | Full-stack tourism platform for COIL 2025 featuring itinerary planning, cultural guides, and destination management. |
+| 🛡️ | **PharmaShield** | Blockchain · Smart Contract · Polygon Testnet · Web/Mobile | Blockchain-based drug verification and patient guidance system with smart contract simulation deployed to Polygon testnet. |
+| 🚗 | **DMG Car Rental** | .NET Framework · WPF · IoT GPS Tracker | Desktop-based car rental management system integrated with IoT GPS tracking for vehicle monitoring and rental operations. |
+| 🌱 | **DSSC AgriFood TBI Management System** | Laravel · MySQL · Blade · Tailwind CSS | Web-based management system for DSSC AgriFood Technology Business Incubator, supporting project records, monitoring, and operations. |
+| 🔐 | **BYG License Generator & Piso Tab Launcher** | Laravel · Android · Kiosk Lock Mode · ESP8266 · ESP32 | License generator and Android launcher system with kiosk lock mode support, including Allan Timer, ESP8266, and ESP32 configurations. |
+| 🌬️ | **AIRA** | IoT · AI · Air Quality Monitoring | AI for Respiratory Awareness: an IoT-based smart air quality monitoring and personalized health awareness system. |
+| ⚡ | **Piso Power Station Project** | ESP32 · IoT · Embedded Systems | ESP32-based IoT power station project for timed control, monitoring, and smart power automation. |
 
 ## &#x1F310; Connect With Me
 
