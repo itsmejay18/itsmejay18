@@ -100,7 +100,7 @@ I value clean architecture, dependable release pipelines, and pragmatic document
 | Marketing 101: Effective Use of Tools and Branding Strategies | IDEAS Davao | 2025 |
 | IDEAS Plugin Activity Participation | DICT XI | 2025 |
 | OpenXAI Mini App Workshop & Competition | OpenXAI × DavaoDeFi | 2025 |
-| COIL: Global Web Design | DSSC × EVSU | 2025 |
+| COIL: Global Web Design | DSSC × EVSU x UII | 2025 |
 | Best Start-Up Award | IDEAS Davao | 2025 |
 | 1st Place Pitching Competition | IDEAS Davao | 2025 |
 | Provincial Pitching Competition Participant | DICT XI | 2025 |
