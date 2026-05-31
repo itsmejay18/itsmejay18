@@ -1,11 +1,12 @@
+```html
 <h1 align="center">Jay J. Ababon</h1>
 
 <p align="center">
-  <strong>Web &amp; Mobile Developer | Game Developer | Blockchain Enthusiast</strong>
+  <strong>Full Stack &amp; IoT Developer | Laravel • Flutter • ESP32 • Embedded Systems</strong>
 </p>
 
 <p align="center">
-  BSIT student focused on building reliable, user-centered systems across web, mobile, games, and blockchain.
+  BSIT student building practical, user-centered systems across web, mobile, IoT, desktop, and embedded technologies.
 </p>
 
 <p align="center">
@@ -24,24 +25,30 @@
 
 ---
 
-## &#x1F9D1;&#x200D;&#x1F4BB; About Me
+## 🧑‍💻 About Me
 
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm Jay, a BSIT student with hands-on experience building real-world systems across web, mobile, games, and blockchain. I enjoy translating ideas into reliable, user-centric products that stay fast, secure, and easy to evolve.
+I'm Jay, a BSIT student and aspiring software developer with hands-on experience building systems across web, mobile, desktop, IoT, embedded technologies, and blockchain-based research projects.
 
-### &#x1F4A1; Core Strengths
+I enjoy transforming ideas into practical and scalable solutions that stay reliable, maintainable, and user-focused. My goal is to continuously improve as a developer while building systems that solve real-world problems through software engineering, automation, and smart device integration.
 
-- Programming
-- Blockchain & Smart contracts
-- System Analysis and Debugging
-- Hardware troubleshooting, OS installation, and System Configuration
+### 💡 Core Strengths
+
+- Full Stack Web Development
+- Mobile Application Development
+- IoT & Embedded Systems Integration
+- API Development & System Integration
+- Database Design & Management
+- System Analysis & Debugging
+- Hardware Troubleshooting & System Configuration
+- Blockchain Research & Smart Contract Prototyping
 
 <br clear="right"/>
 
 ---
 
-## &#x1F6E0;&#xFE0F; Tech Stack
+## 🛠️ Tech Stack
 
 <table align="center">
   <tr>
@@ -88,11 +95,14 @@ I'm Jay, a BSIT student with hands-on experience building real-world systems acr
 
 ---
 
-## &#x1F4C8; Approach
+## 📈 Approach
 
-I value clean architecture, dependable release pipelines, and pragmatic documentation. I'm still learning and improving every day, and I take commission work to build custom systems that stay fast, reliable, and easy to debug, extend, and scale over the long term.
+I value clean architecture, maintainable codebases, dependable release pipelines, and practical documentation. I focus on developing systems that stay fast, scalable, reliable, and easy to improve over time.
+
+I continuously strengthen my skills through real-world projects, startup activities, research-based systems, and commission work involving Laravel, Android, Flutter, IoT, embedded systems, and smart device integration.
 
 ---
+
 ## 📜 Certifications
 
 | Certificate | Organization | Year |
@@ -108,23 +118,27 @@ I value clean architecture, dependable release pipelines, and pragmatic document
 | Regional Pitching Competition Participant | DICT XI | 2025 |
 | Techstars Startup Weekend Social Impact Davao | New Energy Nexus PH | 2025 |
 
+---
+
 ## 🚀 Featured Projects
 
-> 💡 Blockchain, IoT, AI, Laravel, Android, and desktop systems I built for research, startup, and real-world use cases.
+> 💡 Blockchain, IoT, AI, Laravel, Android, and desktop systems I built for research, startup, and real-world applications.
 
 |  | Project | Stack | About |
 |---|---|---|---|
-| 🛡️ | **PharmaShield** | Blockchain · Smart Contract · Polygon Testnet · Web/Mobile | Blockchain-based drug verification and patient guidance system with smart contract simulation deployed to Polygon testnet. |
-| 🚗 | **DMG Car Rental** | .NET Framework · WPF · IoT GPS Tracker | Desktop-based car rental management system integrated with IoT GPS tracking for vehicle monitoring and rental operations. |
-| 🌱 | **DSSC AgriFood TBI Management System** | Laravel · MySQL · Blade · Tailwind CSS · MLP AI | Web-based management system for DSSC AgriFood Technology Business Incubator with MLP AI-powered startup registration assistance, intelligent categorization, and project monitoring. |
-| 🔐 | **BYG License Generator & Piso Tab Launcher** | Laravel · Android · Kiosk Lock Mode · ESP8266 · ESP32 | License generator and Android launcher system with kiosk lock mode support, including Allan Timer, ESP8266, and ESP32 configurations. |
-| 🌬️ | **AIRA** | Flutter · Supabase · IoT · AI · Realtime Monitoring | AI for Respiratory Awareness: a Flutter-based IoT smart air quality monitoring system with Supabase realtime monitoring, personalized health insights, and AI-powered recommendations. |
-| ⚡ | **Piso Power Station Project** | ESP32 · IoT · Embedded Systems | ESP32-based IoT power station project for timed control, monitoring, and smart power automation. |
-| 🏓 | **PickleBall ni Juan Management System** | Laravel 13 · MySQL · Tailwind CSS · Booking System | Web-based pickleball management and reservation system with scheduling, court management, player records, and booking functionalities. |
-| 💬 | **Online Forum Q&A – Learn, Share, and Grow Community** | Laravel 12 · MySQL · Blade · Tailwind CSS | Community-driven discussion and knowledge-sharing platform with forum posting, Q&A interaction, user engagement, and collaborative learning features. |
+| 🛡️ | **PharmaShield** | Blockchain · Smart Contract · Polygon Testnet · Web/Mobile | A blockchain-assisted healthcare and medicine verification platform designed for drug authenticity checking, patient guidance, and smart contract simulation using Polygon testnet technologies. |
+| 🚗 | **DMG Car Rental** | .NET Framework · WPF · IoT GPS Tracker | Desktop-based car rental and fleet management system integrated with IoT GPS tracking for vehicle monitoring, rental operations, and trip visibility. |
+| 🌱 | **DSSC AgriFood TBI Management System** | Laravel · MySQL · Blade · Tailwind CSS · MLP AI | Web-based management platform for DSSC AgriFood Technology Business Incubator featuring AI-assisted startup registration, intelligent categorization, and project monitoring tools. |
+| 🔐 | **BYG License Generator & Piso Tab Launcher** | Laravel · Android · Kiosk Lock Mode · ESP8266 · ESP32 | Android kiosk launcher and licensing ecosystem with Allan Timer, ESP8266, and ESP32 support for smart charging, embedded communication, and controlled device access. |
+| 🌬️ | **AIRA** | Flutter · Supabase · IoT · AI · Realtime Monitoring | AI for Respiratory Awareness: a Flutter-based IoT air quality monitoring system with Supabase realtime integration, AI-powered recommendations, and personalized environmental insights. |
+| ⚡ | **Piso Power Station Project** | ESP32 · IoT · Embedded Systems | ESP32-powered smart power automation system designed for timed electrical control, monitoring, and embedded device management. |
+| 🏓 | **PickleBall ni Juan Management System** | Laravel 13 · MySQL · Tailwind CSS · Booking System | Web-based pickleball reservation and management platform with scheduling, court management, booking functionalities, and player record tracking. |
+| 💬 | **Online Forum Q&A – Learn, Share, and Grow Community** | Laravel 12 · MySQL · Blade · Tailwind CSS | Community-driven discussion and knowledge-sharing platform with forum interaction, collaborative learning, user engagement, and Q&A functionalities. |
 | 🌍 | **GALA – Stress-Free Travel Solution** | Laravel 12 · Geotagging · Tourism System · COIL Project | Smart tourism and travel assistance platform with geotagging and destination-based services developed under the DSSC × EVSU × UII COIL collaboration project. |
 
-## &#x1F310; Connect With Me
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jay-j-ababon-2644743a2/" target="_blank">
@@ -146,3 +160,4 @@ I value clean architecture, dependable release pipelines, and pragmatic document
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+```
