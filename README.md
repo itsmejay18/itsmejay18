@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Jay J. Ababon</h1>
 
 <p align="center">
@@ -160,4 +159,3 @@ I continuously strengthen my skills through real-world projects, startup activit
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-```
