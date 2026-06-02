@@ -109,13 +109,16 @@ I continuously strengthen my skills through real-world projects, startup activit
 | Marketing 101: Effective Use of Tools and Branding Strategies | IDEAS Davao | 2025 |
 | IDEAS Plugin Activity Participation | DICT XI | 2025 |
 | OpenXAI Mini App Workshop & Competition | OpenXAI × DavaoDeFi | 2025 |
-| COIL: Global Web Design | DSSC × EVSU x UII | 2025 |
+| COIL: Global Web Design | DSSC × EVSU × UII | 2025 |
+| COIL: International Collaboration Program | DSSC × NMU Cambodia | 2026 |
+| ASEAN P2A AI Hackathon Participant | ASEAN P2A | 2026 |
 | Best Start-Up Award | IDEAS Davao | 2025 |
 | 1st Place Pitching Competition | IDEAS Davao | 2025 |
 | Provincial Pitching Competition Participant | DICT XI | 2025 |
 | Provincial Pitching Competition Winner | DICT XI | 2025 |
 | Regional Pitching Competition Participant | DICT XI | 2025 |
 | Techstars Startup Weekend Social Impact Davao | New Energy Nexus PH | 2025 |
+
 
 ---
 
