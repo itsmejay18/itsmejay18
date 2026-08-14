@@ -1,7 +1,7 @@
 <h1 align="center">Jay J. Ababon</h1>
 
 <p align="center">
-  <strong>Full Stack &amp; IoT Developer | Laravel • Flutter • ESP32 • Embedded Systems</strong>
+  <strong>Full Stack &amp; IoT Developer | Laravel • Flutter • IOT • Embedded Systems</strong>
 </p>
 
 <p align="center">
