@@ -1,12 +1,17 @@
 name: Generate Snake Animation
 
+# PAUSED on 2026-11-18.
+# Every run since 2026-11-07 fails at job setup with:
+#   "The job was not started because your account is locked due to a billing issue."
+# Fix: GitHub -> Settings -> Billing and plans (clear the failed payment / spending
+# limit), then uncomment the `schedule` and `push` triggers below to resume.
 on:
-  schedule:
-    - cron: "0 */12 * * *"
+  # schedule:
+  #   - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
 
 permissions:
   contents: write
